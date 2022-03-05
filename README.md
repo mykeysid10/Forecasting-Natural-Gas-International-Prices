@@ -1,2 +1,2 @@
-# Forecasting-Natural-Gas-International-Prices-
+# Forecasting-Natural-Gas-International-Prices
 Domain: Time Series Analytics 
