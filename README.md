@@ -9,3 +9,9 @@ Domain: Time Series Analytics | Deep Learning
 <h3 align = "left">System Architecture</h3>
 
 ![System Architecture](https://raw.githubusercontent.com/mykeysid10/Forecasting-Natural-Gas-International-Prices/main/System%20Architecture.png)
+
+
+<h5 align = "left">Forecasting for Next 18 Days</h5>
+
+![](https://raw.githubusercontent.com/mykeysid10/Forecasting-Natural-Gas-International-Prices/main/Forecasting.JPG)
+
