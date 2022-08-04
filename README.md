@@ -10,8 +10,7 @@ Domain: Time Series Analytics | Deep Learning
 
 ![System Architecture](https://raw.githubusercontent.com/mykeysid10/Forecasting-Natural-Gas-International-Prices/main/System%20Architecture.png)
 
-
-<h5 align = "left">Forecasting Natural Gas Prize for Next 18 Days (3rd Mar 2022 - 19th Mar 2022) </h5>
+<h3 align = "left">Forecasting Natural Gas Prize for Next 18 Days (3rd Mar 2022 - 19th Mar 2022) </h3>
 
 ![](https://raw.githubusercontent.com/mykeysid10/Forecasting-Natural-Gas-International-Prices/main/Forecasting.JPG)
 
