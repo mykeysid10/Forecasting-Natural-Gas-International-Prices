@@ -1,16 +1,15 @@
 # Forecasting Natural Gas International Prices
 
-Domain: Time Series Analytics | Deep Learning
+#### Project Aim: To predict & forecast Natural Gas international prizes.
 
-<div align = "left">
-      <a href="https://www.kaggle.com/code/mykeysid10/natural-gas-price-prediction-using-time-series" target="_blank">Kaggle Notebook</a>
-</div>
+#### Domain: Time Series | Deep Learning
 
-<h3 align = "left">System Architecture</h3>
+#### Links: [Solution](https://www.kaggle.com/code/mykeysid10/natural-gas-price-prediction-using-time-series)
+
+#### System Architecture:
 
 ![System Architecture](https://raw.githubusercontent.com/mykeysid10/Forecasting-Natural-Gas-International-Prices/main/System%20Architecture.png)
 
-<h3 align = "left">Forecasting Natural Gas Prize for Next 18 Days (3rd Mar 2022 - 19th Mar 2022) </h3>
+#### Forecasting Prize for Next 18 Days (3rd Mar 2022 - 19th Mar 2022):
 
 ![](https://raw.githubusercontent.com/mykeysid10/Forecasting-Natural-Gas-International-Prices/main/Forecasting.JPG)
-
